@@ -3,14 +3,17 @@
 
 -How can I use this to find new fishing spots?
 --Deep spots near holes? Grid Coordinates?
+
 --Merge and clean the datasets to make a new dataset with names and grid coordinates
----What other columns/data would be relevant? 
+
+-What other columns/data would be relevant? 
+--Longitude and Latitude
+--Depth
 
 
 
 
-
-Artificial Reef Locationsin Florida
+Artificial Reef Locations in Florida
 http://geodata.myfwc.com/datasets/artificial-reefs-in-florida
 
 Countours and Elevations
