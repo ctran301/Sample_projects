@@ -7,14 +7,22 @@
 --Merge and clean the datasets to make a new dataset with names and grid coordinates
 
 -What other columns/data would be relevant? 
+--Make a primary ID or name column
 --Longitude and Latitude
 --Depth
+--Make a new column to see how far it is from a certain point on shore or a specific port.
+---Find the coordinate for Cape Canaveral for example and use the longitude and latitude to figure out distance.
+--Which reefs are closest to us? 
+---County
+---Coast?
 
 
 
 
 Artificial Reef Locations in Florida
 http://geodata.myfwc.com/datasets/artificial-reefs-in-florida
+API GEOJSON-https://opendata.arcgis.com/datasets/eb2bfd225149405bba23604f20159f56_1.geojson
 
 Countours and Elevations
 https://geodata.dep.state.fl.us/datasets/b5542800e51e4985a0c7cf3729ccd227_0/geoservice?geometry=-612.66%2C-85.786%2C56.364%2C-55.02
+API GEOJSON-https://opendata.arcgis.com/datasets/b5542800e51e4985a0c7cf3729ccd227_0.geojson
